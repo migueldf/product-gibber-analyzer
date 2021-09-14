@@ -23,7 +23,7 @@ from collections import Counter
 
 
 # Loading datasets
-df = pd.read_csv("data/dataset.csv")
+df = pd.read_csv("Data/dataset.csv")
 
 
 products = df.title.unique().tolist()
