@@ -5,7 +5,7 @@ Product Gibber Analyzer
 
 **Data Analytics PT Abr2021**
 
-##Overview
+## Overview
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Include the following points in your overview:
@@ -16,7 +16,7 @@ Include the following points in your overview:
 This project aims to build towards this purpuse by enabling customers to get a brief overview of customer's feelings related to products.
 
 
-##Data Preparation
+## Data Preparation
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Overview:
@@ -36,7 +36,7 @@ This project aims to build towards this purpuse by enabling customers to get a b
 
 -   Used dataset is contained in the data folder of this repository under the name "dataset.csv".
 
-##Data Analysis
+## Data Analysis
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Overview
@@ -59,7 +59,7 @@ The workflow on this project was:
     - Positivity and subjectivity score: Bar chart showing the median polarity and subjectivity of the analyzed reviews.
     - 2 Wordclouds: wordclouds showing the most common words and phrases of both positive and negative reviews.
 
-##Conclusion
+## Conclusion
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Customer Reviews help customers to learn more about the product and decide whether it is the right product for them. They should give customers genuine product feedback from fellow shoppers.
