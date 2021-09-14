@@ -10,6 +10,7 @@ import streamlit as st
 import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
+nltk.download('brown')
 
 from textblob import TextBlob
 from wordcloud import WordCloud, STOPWORDS
